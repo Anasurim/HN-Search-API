@@ -2,9 +2,8 @@ import React from 'react';
 import styled from 'styled-components';
 
 const ArticleUl = styled.ul`
-  list-style: none;
+  list-style: square;
   margin: 0;
-  padding: 0;
 `;
 
 const ArticleListItem = styled.li`
@@ -12,10 +11,11 @@ const ArticleListItem = styled.li`
 
   a {
     color: grey;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
-      text-decoration: underline;
+      color: orange;
+      text-decoration: none;
     }
   }
 `;
