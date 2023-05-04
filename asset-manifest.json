@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HN-Search-API/static/css/main.7acaea2f.css",
-    "main.js": "/HN-Search-API/static/js/main.e5142668.js",
+    "main.js": "/HN-Search-API/static/js/main.accab62d.js",
     "index.html": "/HN-Search-API/index.html",
     "main.7acaea2f.css.map": "/HN-Search-API/static/css/main.7acaea2f.css.map",
-    "main.e5142668.js.map": "/HN-Search-API/static/js/main.e5142668.js.map"
+    "main.accab62d.js.map": "/HN-Search-API/static/js/main.accab62d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.e5142668.js"
+    "static/js/main.accab62d.js"
   ]
 }
