@@ -11,7 +11,7 @@ const ArticleListItem = styled.li`
   margin-bottom: 8px;
 
   a {
-    color: black;
+    color: grey;
     text-decoration: none;
 
     &:hover {
