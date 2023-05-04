@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HN-Search-API/static/css/main.7acaea2f.css",
+    "main.js": "/HN-Search-API/static/js/main.07d3183d.js",
+    "index.html": "/HN-Search-API/index.html",
+    "main.7acaea2f.css.map": "/HN-Search-API/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/HN-Search-API/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
